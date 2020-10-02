@@ -8,6 +8,8 @@ You have to enable geolocation in your browser for this to work. Ofcourse, it wi
 You can check in your weather details like temperature, humidity along with latitude and longitude. 
 You can also save these details in nedb which is a database, basically a lighter version of mongodb.
 
+You're no limited to this , API returns a ton of data , you can modify front end according to you and display whatever data you want.
+
 You can always check your logs by hovering or clicking over the map markers.
 
 It also has a clean and intuitive user interface.
